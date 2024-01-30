@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945786600914",
+    "project_id": "deft-crawler-321906",
+    "storage_bucket": "deft-crawler-321906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945786600914:android:ff0388394773d516d7dc0b",
+        "android_client_info": {
+          "package_name": "ru.netology.nmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945786600914-pacftuqo19sj843hci5goigg53h3u8e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzp7VmH39Um3QPZI6oAAstGJFUzmoNFAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945786600914-pacftuqo19sj843hci5goigg53h3u8e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
