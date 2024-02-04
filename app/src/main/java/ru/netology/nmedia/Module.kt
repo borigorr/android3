@@ -1,5 +1,6 @@
 package ru.netology.nmedia
 
+import com.google.android.gms.common.GoogleApiAvailability
 import com.google.firebase.messaging.FirebaseMessaging
 import dagger.Module
 import dagger.Provides
@@ -12,4 +13,7 @@ import dagger.hilt.components.SingletonComponent
 object Module {
     @Provides
     fun firebase(): FirebaseMessaging = FirebaseMessaging.getInstance()
+
+    @Provides
+    fun googleApiAvailability(): GoogleApiAvailability = GoogleApiAvailability.getInstance()
 }
